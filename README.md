@@ -1,3 +1,4 @@
 # json
 
-Displays a list of job posting search results by fetching search results from an api
+Displays a list of job-postings (fetching the datas from an api)
+and you can filter it
